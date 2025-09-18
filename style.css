@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgba(230, 167, 167, 0.839);
+}
+div{
+    margin: auto;
+    border: 2px solid black;
+    width: 500px;
+    height: auto;
+    background-color: rgb(185, 185, 238);
+}
+.innerdiv{
+    border: 2px solid black;
+    margin: auto;
+    width: 300px;
+}
+li{
+    text-align: left;
+}
+button{
+    background-color: rgb(81, 237, 24);
+    border-radius: 30%;
+}
